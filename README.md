@@ -318,7 +318,7 @@ http://localhost:5173
 
 # 👨‍💻 Author
 
-**Mahammad Jaheer Meera Ahmad**
+**SWAPNIKA K **
 
 ---
 
